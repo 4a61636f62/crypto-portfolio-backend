@@ -9,7 +9,5 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="folio-frontend" />
-    <orderEntry type="module" module-name="bloglist" />
-    <orderEntry type="module" module-name="bloglist-frontend" />
   </component>
 </module>
